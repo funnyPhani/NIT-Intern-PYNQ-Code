@@ -1,5 +1,5 @@
 # NIT-Intern-PYNQ-Code
-
+#http://192.168.2.99:9090/
 
 ## Step1: Clone the git repo
 
